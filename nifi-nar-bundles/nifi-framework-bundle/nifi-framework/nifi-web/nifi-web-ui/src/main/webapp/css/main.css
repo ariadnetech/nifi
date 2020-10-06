@@ -61,7 +61,7 @@ div.context-menu-provenance {
     font-family: FontAwesome;
     content: "\f0da";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
     float: left;
     margin-right: 3px;
 }
@@ -70,7 +70,7 @@ div.context-menu-provenance {
     font-family: FontAwesome;
     content: "\f0d7";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
     float: left;
 }
 
@@ -207,8 +207,8 @@ div.has-bulletins, div.warning {
 }
 
 .zero {
-    color: #aabec7 !important;
-    fill: #aabec7 !important;
+    color: #fafafa !important;
+    fill: #fafafa !important;
     text-shadow: none !important;
 }
 
@@ -316,7 +316,7 @@ span.details-title {
 }
 
 #upload-template-button {
-    color: #004849;
+    color: #004d65;
     font-size: 16px;
     cursor: pointer;
 }

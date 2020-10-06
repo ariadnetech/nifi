@@ -311,7 +311,7 @@ var ua = {
                     buttonText: 'Add',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -410,7 +410,7 @@ var ua = {
                     color: {
                         base: '#E3E8EB',
                         hover: '#C7D2D7',
-                        text: '#004849'
+                        text: '#004d65'
                     },
                     handler: {
                         click: function () {
@@ -671,7 +671,7 @@ var ua = {
                     buttonText: 'Ok',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -946,7 +946,7 @@ var ua = {
                                 buttonText: 'Yes',
                                 color: {
                                     base: '#728E9B',
-                                    hover: '#004849',
+                                    hover: '#004d65',
                                     text: '#ffffff'
                                 },
                                 handler: {
@@ -967,7 +967,7 @@ var ua = {
                                 color: {
                                     base: '#E3E8EB',
                                     hover: '#C7D2D7',
-                                    text: '#004849'
+                                    text: '#004d65'
                                 },
                                 handler: {
                                     click: function () {
@@ -1243,7 +1243,7 @@ var ua = {
                     buttonText: 'Yes',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -1280,7 +1280,7 @@ var ua = {
                     color: {
                         base: '#E3E8EB',
                         hover: '#C7D2D7',
-                        text: '#004849'
+                        text: '#004d65'
                     },
                     handler: {
                         click: function () {

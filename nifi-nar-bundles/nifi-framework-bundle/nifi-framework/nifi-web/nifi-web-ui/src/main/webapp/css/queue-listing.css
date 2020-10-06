@@ -120,7 +120,7 @@ div.detail-name {
 div.detail-value, div.flowfile-info {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Roboto';
@@ -143,7 +143,7 @@ div.attribute-name {
 div.attribute-value {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Roboto';
@@ -180,7 +180,7 @@ div.content-detail-name {
 div.content-detail-value {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
 }

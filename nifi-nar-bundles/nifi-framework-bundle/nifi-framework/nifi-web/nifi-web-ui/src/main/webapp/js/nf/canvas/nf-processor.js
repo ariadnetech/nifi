@@ -1253,7 +1253,7 @@
          * Returns the default icon color that should be used when drawing a processor.
          */
         defaultIconColor: function () {
-            return '#ad9897';
+            return '#a44d50';
         }
     };
 

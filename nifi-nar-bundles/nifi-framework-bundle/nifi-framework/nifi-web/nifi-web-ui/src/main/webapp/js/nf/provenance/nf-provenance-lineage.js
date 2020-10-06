@@ -713,7 +713,7 @@
                     .attrs({
                         'font-family': 'flowfont',
                         'font-size': '18px',
-                        'fill': '#ad9897',
+                        'fill': '#a44d50',
                         'transform': function (d) {
                             return 'translate(0,15)';
                         }
@@ -778,7 +778,7 @@
                             color: {
                                 base: '#E3E8EB',
                                 hover: '#C7D2D7',
-                                text: '#004849'
+                                text: '#004d65'
                             },
                             handler: {
                                 click: function () {
@@ -1347,7 +1347,7 @@
                     color: {
                         base: '#E3E8EB',
                         hover: '#C7D2D7',
-                        text: '#004849'
+                        text: '#004d65'
                     },
                     handler: {
                         click: function () {

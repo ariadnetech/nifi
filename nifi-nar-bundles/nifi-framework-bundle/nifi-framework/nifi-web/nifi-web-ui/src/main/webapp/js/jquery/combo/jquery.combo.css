@@ -32,7 +32,7 @@
     background: #fefefe;
     color: #262626;
     list-style: none;
-    border: 1px solid #004849;
+    border: 1px solid #004d65;
     box-shadow:0 3px 6px rgba(0,0,0,0.3);
     z-index: 2000;
     border-top: none;
@@ -40,12 +40,12 @@
 }
 
 .combo-options .fa {
-    color: #004849;
+    color: #004d65;
 }
 
 .combo-open {
     background: #fff !important;
-    border: 1px solid #004849 !important;
+    border: 1px solid #004d65 !important;
     border-bottom: 1px solid #fff !important;
     font-weight: bold;
     color: #262626;

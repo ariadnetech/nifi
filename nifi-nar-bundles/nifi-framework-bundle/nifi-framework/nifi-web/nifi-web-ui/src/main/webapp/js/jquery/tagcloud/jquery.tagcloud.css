@@ -37,7 +37,7 @@ ul.tag-cloud li {
 
 ul.tag-cloud span.link {
     cursor: pointer;
-    color: #004849;
+    color: #004d65;
     font-weight: bold;
     display: inline-block;
     background-color: #E3E8EB;
@@ -47,7 +47,7 @@ ul.tag-cloud span.link {
 
 ul.tag-cloud span.link.selected {
     cursor: pointer;
-    background-color: #004849;
+    background-color: #004d65;
     font-weight: bold;
     display: inline-block;
     color: #E3E8EB;

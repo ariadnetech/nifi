@@ -192,7 +192,7 @@
         });
 
         // funnels
-        context.fillStyle = '#ad9897';
+        context.fillStyle = '#a44d50';
         $.each(components.funnels, function (_, d) {
             context.fillRect(d.position.x, d.position.y, d.dimensions.width, d.dimensions.height);
         });

@@ -125,7 +125,7 @@ div.label {
     border-right: 1px solid #CCDADB;
     border-bottom: 1px solid #CCDADB;
     border-left: 1px solid #CCDADB;
-    color: #004849;
+    color: #004d65;
     font-weight: 500;
     cursor: grab;
     cursor: -moz-grab;
@@ -366,7 +366,7 @@ div.rule-setting {
 }
 
 .info {
-    color: #004849;
+    color: #004d65;
     margin-left: 5px;
     font-size: 12px;
 }

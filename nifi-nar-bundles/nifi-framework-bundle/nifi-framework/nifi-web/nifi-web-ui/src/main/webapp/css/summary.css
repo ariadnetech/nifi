@@ -81,7 +81,7 @@
 }
 
 #cluster-search-example {
-    color: #775351;
+    color: #ad070b;
     font-weight: bold;
     line-height: normal;
     margin-top: 3px;
@@ -396,7 +396,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e807";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-processor-name {
@@ -421,7 +421,7 @@ span.sorted {
 #cluster-processor-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;
@@ -494,7 +494,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e832";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-input-port-name {
@@ -519,7 +519,7 @@ span.sorted {
 #cluster-input-port-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;
@@ -592,7 +592,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e833";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-output-port-name {
@@ -617,7 +617,7 @@ span.sorted {
 #cluster-output-port-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;
@@ -690,7 +690,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e805";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-remote-process-group-name {
@@ -715,7 +715,7 @@ span.sorted {
 #cluster-remote-process-group-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;
@@ -788,7 +788,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e834";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-connection-name {
@@ -813,7 +813,7 @@ span.sorted {
 #cluster-connection-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;
@@ -886,7 +886,7 @@ span.sorted {
     font-family: flowfont;
     content: "\e804";
     font-size: 32px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #cluster-process-group-name {
@@ -911,7 +911,7 @@ span.sorted {
 #cluster-process-group-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     position: absolute;
     bottom: 0px;
     text-overflow: ellipsis;

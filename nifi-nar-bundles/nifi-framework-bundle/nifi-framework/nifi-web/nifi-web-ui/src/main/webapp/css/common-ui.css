@@ -118,7 +118,7 @@ button {
 }
 
 .value-color {
-    color: #775351;
+    color: #ad070b;
 }
 
 ul.links li {
@@ -236,7 +236,7 @@ input[type=text], input[type=password] {
 
 input:focus, textarea:focus {
     background-color: #fff;
-    border: 1px solid #004849; /*link-color*/
+    border: 1px solid #004d65; /*link-color*/
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     outline: none;
 }
@@ -328,7 +328,7 @@ span.link:focus {
 
 span.link {
     cursor: pointer;
-    color: #004849; /*link-color*/
+    color: #004d65; /*link-color*/
     font-weight: normal;
     display: inline-block;
     border-bottom: 1px solid #CCDADB;
@@ -337,7 +337,7 @@ span.link {
 }
 
 span.link-over {
-    border-bottom: 1px solid #004849;
+    border-bottom: 1px solid #004d65;
 }
 
 span.link-bold {
@@ -350,7 +350,7 @@ button {
     width: 28px;
     border: 1px solid #CCDADB; /*tint link-color 80%*/
     background-color: rgba(249, 250, 251, 0.97);
-    color: #004849;
+    color: #004d65;
 }
 
 button.refresh-button {
@@ -358,7 +358,7 @@ button.refresh-button {
 }
 
 button:hover {
-    border: 1px solid #004849; /*link-color*/
+    border: 1px solid #004d65; /*link-color*/
 }
 
 button:disabled {
@@ -379,7 +379,7 @@ div:focus {
 
 input:focus {
     background-color: #fff;
-    border: 1px solid #004849; /*link-color*/
+    border: 1px solid #004d65; /*link-color*/
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     outline: none;
 }
@@ -413,7 +413,7 @@ input.filter {
 
 .filter-status {
     margin-top: 10px;
-    color: #775351;
+    color: #ad070b;
     font-family: Roboto;
     font-size: 13px;
     font-weight: 500;
@@ -437,7 +437,7 @@ input.filter {
     left : -8px;
     color : #ffffff;
     -webkit-text-stroke-width : 1px;
-    -webkit-text-stroke-color : #004849;
+    -webkit-text-stroke-color : #004d65;
 
 }
 
@@ -450,14 +450,14 @@ input.filter {
 /* buttons */
 
 button.fa {
-    color: #004849;
+    color: #004d65;
     font-size: 16px;
     cursor: pointer;
     line-height: 25px;
 }
 
 button.icon {
-    color: #004849;
+    color: #004d65;
     font-size: 16px;
 }
 
@@ -504,7 +504,7 @@ div.button.disabled-button {
 }
 
 div.button:hover:not(.disabled-button) {
-    background-color: #004849;
+    background-color: #004d65;
 }
 
 div.secondary-button {
@@ -520,7 +520,7 @@ div.secondary-button {
     float: right;
     position: relative;
     background: #E3E8EB;
-    color: #004849;
+    color: #004d65;
     cursor:pointer
 }
 
@@ -567,11 +567,11 @@ div.nifi-tooltip {
     font-size: 13px;
     padding:3px 0;
     background-color:rgba(249,250,251,0.97); /*tint base-color 96%*/
-    border:1px solid #004849; /*link-color*/
+    border:1px solid #004d65; /*link-color*/
     box-shadow: 0 3px 6px rgba(0,0,0,0.3);
     width: 215px;
     max-height: inherit;
-    color:#004849
+    color:#004d65
 }
 
 div.context-menu-item {
@@ -656,19 +656,19 @@ md-progress-linear > div {
 }
 
 .setting-name .fa {
-    color: #004849;
+    color: #004d65;
     margin-left: 5px;
 }
 
 .setting-field .fa {
-    color: #004849;
+    color: #004d65;
     margin-left: 5px;
 }
 
 .setting-field {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
 }

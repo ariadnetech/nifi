@@ -143,12 +143,12 @@
                 'background': '#728E9B'
             }).hover(
                 function () {
-                    $(this).css('background', '#004849');
+                    $(this).css('background', '#004d65');
                 }, function () {
                     $(this).css('background', '#728E9B');
                 }).on('click', scope.save);
             var cancel = $('<div class="secondary-button">Cancel</div>').css({
-                'color': '#004849',
+                'color': '#004d65',
                 'background': '#E3E8EB'
             }).hover(
                 function () {
@@ -320,7 +320,7 @@
             'left': '20px'
         }).hover(
             function () {
-                $(this).css('background', '#004849');
+                $(this).css('background', '#004d65');
             }, function () {
                 $(this).css('background', '#728E9B');
             }).on('click', function () {
@@ -1247,7 +1247,7 @@
                     buttonText: 'Close',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -1267,7 +1267,7 @@
                 color: {
                     base: '#E3E8EB',
                     hover: '#C7D2D7',
-                    text: '#004849'
+                    text: '#004d65'
                 },
                 handler: {
                     click: function () {
@@ -1615,7 +1615,7 @@
                     buttonText: 'Ok',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -1628,7 +1628,7 @@
                     color: {
                         base: '#E3E8EB',
                         hover: '#C7D2D7',
-                        text: '#004849'
+                        text: '#004d65'
                     },
                     handler: {
                         click: function () {
@@ -1679,7 +1679,7 @@
                 buttonText: 'Apply',
                 color: {
                     base: '#728E9B',
-                    hover: '#004849',
+                    hover: '#004d65',
                     text: '#ffffff'
                 },
                 handler: {
@@ -1692,7 +1692,7 @@
                 color: {
                     base: '#E3E8EB',
                     hover: '#C7D2D7',
-                    text: '#004849'
+                    text: '#004d65'
                 },
                 handler: {
                     click: function () {

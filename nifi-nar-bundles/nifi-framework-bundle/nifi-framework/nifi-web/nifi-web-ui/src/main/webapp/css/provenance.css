@@ -170,7 +170,7 @@ div.searchable-field-value {
 div.flowfile-container {
     width: 282px;
     overflow: auto;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     line-height:1.4
@@ -202,7 +202,7 @@ div.detail-name {
 div.detail-value {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Roboto';
@@ -225,7 +225,7 @@ div.attribute-name {
 div.attribute-value {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Roboto';
@@ -268,7 +268,7 @@ div.modified-attribute-value {
     overflow: hidden;
     white-space: nowrap;
     line-height: normal;
-    color: #ad9897;
+    color: #a44d50;
     padding-top: 2px;
     font-size: 13px;
     font-weight: 500;
@@ -304,7 +304,7 @@ div.content-detail-name {
 div.content-detail-value {
     line-height: normal;
     width: 100%;
-    color: #775351;
+    color: #ad070b;
     font-size: 13px;
     font-weight: 500;
     font-family: 'Roboto';
@@ -377,7 +377,7 @@ div.content-detail-value {
     height: 16px;
     width: 16px;
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
     cursor: pointer;
     margin-right: 4px;
     margin-top: 2px;
@@ -388,7 +388,7 @@ div.content-detail-value {
     height: 16px;
     width: 16px;
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
     cursor: pointer;
     margin-right: 5px;
     margin-top: 2px;
@@ -418,7 +418,7 @@ div.content-detail-value {
 
 #event-timeline {
     margin-top: 4px;
-    color: #775351;
+    color: #ad070b;
     line-height: normal;
     font-family: 'Roboto';
     font-style: normal;
@@ -438,35 +438,35 @@ div.lineage-view-event:before {
     font-family: FontAwesome;
     content: "\f05a";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
 }
 
 div.lineage-view-parents:before {
     font-family: FontAwesome;
     content: "\f1e5";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
 }
 
 div.lineage-collapse-parents:before {
     font-family: FontAwesome;
     content: "\f147";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
 }
 
 div.lineage-view-children:before {
     font-family: FontAwesome;
     content: "\f0fe";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
 }
 
 div.lineage-collapse-children:before {
     font-family: FontAwesome;
     content: "\f146";
     font-size: 16px;
-    color: #004849;
+    color: #004d65;
 }
 
 path.link.selected {
@@ -508,7 +508,7 @@ g.flowfile {
 }
 
 g.flowfile circle.context, g.event circle.context {
-    stroke: #004849;
+    stroke: #004d65;
     stroke-width: 1.5px;
 }
 
@@ -516,7 +516,7 @@ g.flowfile circle.context, g.event circle.context {
     font-family: flowfont;
     content: "\e808";
     font-size: 16px;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #child-flowfile-count {

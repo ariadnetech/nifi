@@ -35,17 +35,17 @@ ul.tab-pane {
     padding: 0 10px;
     border: 1px solid #CCDADB;
     text-transform: uppercase;
-    color: #004849;
+    color: #004d65;
     border-bottom: 0px;
 }
 
 .tab:hover {
-    border: 1px solid #004849;
+    border: 1px solid #004d65;
 }
 
 .selected-tab {
     background-color: #fff;
-    border: 1px solid #004849;
+    border: 1px solid #004d65;
     border-bottom-color: #fff;
     color: #262626;
     border-bottom: 1px solid #fff !important;
@@ -55,7 +55,7 @@ ul.tab-pane {
     background-color: transparent;
     height: 32px;
     margin-bottom: 20px;
-    border-bottom: 1px solid #004849;
+    border-bottom: 1px solid #004d65;
     width: 100%;
 }
 

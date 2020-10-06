@@ -830,7 +830,7 @@
                         buttonText: 'Apply',
                         color: {
                             base: '#728E9B',
-                            hover: '#004849',
+                            hover: '#004d65',
                             text: '#ffffff'
                         },
                         disabled : function() {
@@ -860,7 +860,7 @@
                         color: {
                             base: '#E3E8EB',
                             hover: '#C7D2D7',
-                            text: '#004849'
+                            text: '#004d65'
                         },
                         handler: {
                             click: function () {
@@ -877,7 +877,7 @@
                             color: {
                                 base: '#E3E8EB',
                                 hover: '#C7D2D7',
-                                text: '#004849'
+                                text: '#004d65'
                             },
                             handler: {
                                 click: function () {
@@ -939,7 +939,7 @@
                                 color: {
                                     hover: '#C7D2D7',
                                     base: 'transparent',
-                                    text: '#004849'
+                                    text: '#004d65'
                                 },
                                 disabled : function() {
                                     return nfCanvasUtils.supportsModification(selection);

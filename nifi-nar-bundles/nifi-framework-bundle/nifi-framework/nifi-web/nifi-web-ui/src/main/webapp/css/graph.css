@@ -26,7 +26,7 @@
     right: 0px;
     background-color: #f9fafb;
     background-size: 14px 14px;
-    background-image: linear-gradient(to right, rgba(229, 235, 237, 1) 1px, transparent 1px), linear-gradient(to bottom, rgba(229, 235, 237, 1) 1px, transparent 1px);
+    background-image: linear-gradient(to right, rgba(0, 77, 101, 0.3) 1px, transparent 1px), linear-gradient(to bottom, rgba(0, 77, 101, 0.3) 1px, transparent 1px);
     z-index: 1;
     overflow: hidden;
 }
@@ -88,7 +88,7 @@ g.component rect.processor-icon-container.unauthorized {
 }
 
 g.component.selected rect.border {
-    stroke: #004849 !important;
+    stroke: #004d65 !important;
     stroke-width: 3;
 }
 
@@ -99,7 +99,7 @@ text.stats-label {
 }
 
 text.stats-value {
-    fill: #775351;
+    fill: #ad070b;
     font-size: 12px;
     font-weight: bold;
 }
@@ -131,7 +131,7 @@ text.active-thread-count-icon {
 }
 
 text.active-thread-count {
-    fill: #775351;
+    fill: #ad070b;
     font-size: 12px;
     font-weight: bold;
 }
@@ -202,7 +202,7 @@ text.add-connect {
     cursor: pointer;
     font-family: flowfont;
     font-size: 28px;
-    fill: #004849;
+    fill: #004d65;
 }
 
 /*
@@ -284,7 +284,7 @@ g.connection rect.border.full {
 }
 
 g.connection.selected rect.border {
-    /*stroke: #004849;*/
+    /*stroke: #004d65;*/
     stroke: #ffcc00;
     stroke-width: 3;
 }
@@ -469,7 +469,7 @@ g.label.selected rect.labelpoint {
 /* funnels */
 
 text.funnel-icon {
-    fill: #ad9897;
+    fill: #a44d50;
     font-family: flowfont;
     font-size: 30px;
 }
@@ -482,7 +482,7 @@ text.port-name {
 }
 
 text.port-icon {
-    fill: #ad9897;
+    fill: #a44d50;
     font-family: flowfont;
     font-size: 30px;
 }
@@ -513,7 +513,7 @@ text.version-control {
 }
 
 text.process-group-contents-count {
-    fill: #775351;
+    fill: #ad070b;
     font-size: 15px;
     font-weight: 500;
     font-family: Roboto, sans-serif;
@@ -537,7 +537,7 @@ text.remote-process-group-name {
 }
 
 text.remote-process-group-uri {
-    fill: #004849;
+    fill: #004d65;
     font-size: 12px;
 }
 
@@ -549,7 +549,7 @@ text.remote-process-group-transmission-status {
 text.remote-process-group-transmission-secure {
     font-family: FontAwesome;
     font-size: 13px;
-    fill: #004849;
+    fill: #004d65;
 }
 
 text.remote-process-group-last-refresh {

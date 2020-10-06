@@ -36,7 +36,7 @@
 }
 
 .graph-control-header-icon.fa {
-    color: #004849; /*link-color*/
+    color: #004d65; /*link-color*/
     margin-left: 7px !important;
 }
 
@@ -65,24 +65,24 @@ div.graph-control-docked {
     width: 100%;
     text-align: center;
     line-height: 34px;
-    color: #004849;
+    color: #004d65;
 }
 
 .docked:hover {
-    border-top: 1px solid #004849; /*tint base-color 60%*/
-    border-right: 1px solid #004849; /*tint base-color 60%*/
-    border-bottom: 1px solid #004849; /*tint base-color 60%*/
+    border-top: 1px solid #004d65; /*tint base-color 60%*/
+    border-right: 1px solid #004d65; /*tint base-color 60%*/
+    border-bottom: 1px solid #004d65; /*tint base-color 60%*/
 }
 
 div.graph-control button {
     line-height: 30px;
     border: 1px solid #CCDADB; /*tint link-color 80%*/
     background-color: rgba(249,250,251,1);
-    color: #004849;
+    color: #004d65;
 }
 
 div.graph-control button:hover {
-    border: 1px solid #004849; /*link-color*/
+    border: 1px solid #004d65; /*link-color*/
 }
 
 div.graph-control button:disabled {
@@ -139,7 +139,7 @@ div.graph-control-header-action {
 #operation-context-logo i.icon {
     font-size: 32px;
     font-family: flowfont;
-    color: #ad9897;
+    color: #a44d50;
 }
 
 #operation-context-details-container {
@@ -168,7 +168,7 @@ div.graph-control-header-action {
 #operation-context-id {
     font-size: 12px;
     font-family: Roboto;
-    color: #775351;
+    color: #ad070b;
     margin-top: 10px;
 }
 

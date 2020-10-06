@@ -392,7 +392,7 @@
                 buttonText: 'Stop',
                 color: {
                     base: '#728E9B',
-                    hover: '#004849',
+                    hover: '#004d65',
                     text: '#ffffff'
                 },
                 handler: {
@@ -754,7 +754,7 @@
                     buttonText: 'Ok',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {

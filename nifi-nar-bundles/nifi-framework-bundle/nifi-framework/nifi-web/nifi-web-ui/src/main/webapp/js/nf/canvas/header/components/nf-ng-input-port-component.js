@@ -260,7 +260,7 @@
                     buttonText: 'Add',
                     color: {
                         base: '#728E9B',
-                        hover: '#004849',
+                        hover: '#004d65',
                         text: '#ffffff'
                     },
                     handler: {
@@ -272,7 +272,7 @@
                         color: {
                             base: '#E3E8EB',
                             hover: '#C7D2D7',
-                            text: '#004849'
+                            text: '#004d65'
                         },
                         handler: {
                             click: function () {
